@@ -1,0 +1,1 @@
+# IKT2_alkatresz_projekt
