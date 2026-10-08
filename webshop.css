@@ -1,0 +1,24 @@
+.kartya {
+    border: 1px solid #ccc;
+    padding: 15px;    
+    width: 180px;   
+    display: inline-block;   
+    margin: 10px;  
+    text-align: center;
+}
+
+.termekkep {
+    width: 100%;
+    height: auto;
+}
+
+.ar {
+    font-weight: bold;
+    color: green;
+}
+
+
+.kosar {
+    cursor: pointer;
+    padding: 5px 10px;
+}
