@@ -1,24 +1,15 @@
+.termekkep {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+}
+
 .kartya {
     border: 1px solid #ccc;
-    padding: 15px;    
-    width: 180px;   
-    display: inline-block;   
-    margin: 10px;  
+    padding: 15px;
+    width: 200px;
+    margin: 10px;
+    display: inline-block;
     text-align: center;
-}
-
-.termekkep {
-    width: 100%;
-    height: auto;
-}
-
-.ar {
-    font-weight: bold;
-    color: green;
-}
-
-
-.kosar {
-    cursor: pointer;
-    padding: 5px 10px;
-}
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ddd;}
