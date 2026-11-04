@@ -6,9 +6,16 @@
 
 .kartya {
     border: 1px solid #ccc;
+<<<<<<< Updated upstream
     padding: 30px;
     width: 300px;
     margin: 30px;
+=======
+    padding: 2px;
+    width: 300px;
+    height: 370px;
+    margin: 10px;
+>>>>>>> Stashed changes
     display: inline-block;
     text-align: center;
     border-radius: 10px;
@@ -31,4 +38,10 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+.kep{
+    padding: 2px;
+    margin: auto;
+    width: 100px;
 }
