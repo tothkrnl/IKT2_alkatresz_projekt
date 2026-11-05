@@ -38,3 +38,20 @@ body {
     margin: auto;
     width: 100px;
 }
+
+.reszletek{
+    display: inline-block;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left:700px;
+}
+
+.kosar{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
